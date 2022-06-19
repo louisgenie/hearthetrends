@@ -1,0 +1,520 @@
+{
+ "France": {
+  "0": {
+   "name": "Lollapalooza",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "Apple",
+   "tweet_volume": 0.4401
+  },
+  "2": {
+   "name": "jhope",
+   "tweet_volume": 0.4058
+  },
+  "3": {
+   "name": "hobi",
+   "tweet_volume": 0.3516
+  },
+  "4": {
+   "name": "NUPES",
+   "tweet_volume": 0.1261
+  },
+  "5": {
+   "name": "Tchouameni",
+   "tweet_volume": 0.1048
+  },
+  "6": {
+   "name": "M\u00e9lenchon",
+   "tweet_volume": 0.0781
+  },
+  "7": {
+   "name": "Berserk",
+   "tweet_volume": 0.0754
+  },
+  "8": {
+   "name": "MsMarvel",
+   "tweet_volume": 0.0666
+  },
+  "9": {
+   "name": "One-Piece-Red",
+   "tweet_volume": 0.0555
+  },
+  "10": {
+   "name": "Nunez",
+   "tweet_volume": 0.0476
+  },
+  "11": {
+   "name": "iOS-16",
+   "tweet_volume": 0.0466
+  },
+  "12": {
+   "name": "Miura",
+   "tweet_volume": 0.0227
+  },
+  "13": {
+   "name": "USB-C",
+   "tweet_volume": 0.0213
+  },
+  "14": {
+   "name": "LREM",
+   "tweet_volume": 0.0195
+  },
+  "15": {
+   "name": "Dolor\u00e8s",
+   "tweet_volume": 0.0179
+  },
+  "16": {
+   "name": "Olga",
+   "tweet_volume": 0.0174
+  },
+  "17": {
+   "name": "Fran\u00e7ois",
+   "tweet_volume": 0.0152
+  },
+  "18": {
+   "name": "Aulas",
+   "tweet_volume": 0.0149
+  },
+  "19": {
+   "name": "LaPoliceTue",
+   "tweet_volume": 0.0145
+  },
+  "20": {
+   "name": "KohLanta",
+   "tweet_volume": 0.0143
+  },
+  "21": {
+   "name": "Doliprane",
+   "tweet_volume": 0.0141
+  },
+  "22": {
+   "name": "Valls",
+   "tweet_volume": 0.0104
+  },
+  "23": {
+   "name": "S-Crew",
+   "tweet_volume": 0.0096
+  }
+ },
+ "UnitedStates": {
+  "0": {
+   "name": "McConaughey",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "Tinubu",
+   "tweet_volume": 0.7603
+  },
+  "2": {
+   "name": "Atiku",
+   "tweet_volume": 0.2234
+  },
+  "3": {
+   "name": "Invasion",
+   "tweet_volume": 0.1727
+  },
+  "4": {
+   "name": "The-Rock",
+   "tweet_volume": 0.1578
+  },
+  "5": {
+   "name": "MsMarvel",
+   "tweet_volume": 0.1382
+  },
+  "6": {
+   "name": "BlackAdam",
+   "tweet_volume": 0.1104
+  },
+  "7": {
+   "name": "Boudin",
+   "tweet_volume": 0.104
+  },
+  "8": {
+   "name": "Nunez",
+   "tweet_volume": 0.0989
+  },
+  "9": {
+   "name": "WorldOceansDay",
+   "tweet_volume": 0.071
+  },
+  "10": {
+   "name": "wednesdaythought",
+   "tweet_volume": 0.0526
+  },
+  "11": {
+   "name": "Vinland-Saga",
+   "tweet_volume": 0.0511
+  },
+  "12": {
+   "name": "Walmart",
+   "tweet_volume": 0.0467
+  },
+  "13": {
+   "name": "Kid-Rock",
+   "tweet_volume": 0.0428
+  },
+  "14": {
+   "name": "Good-Wednesday",
+   "tweet_volume": 0.0421
+  },
+  "15": {
+   "name": "Breitbart",
+   "tweet_volume": 0.0352
+  },
+  "16": {
+   "name": "Hump-Day",
+   "tweet_volume": 0.0348
+  },
+  "17": {
+   "name": "Jimmy-Carter",
+   "tweet_volume": 0.0338
+  },
+  "18": {
+   "name": "Iman-Vellani",
+   "tweet_volume": 0.0316
+  },
+  "19": {
+   "name": "Kushner",
+   "tweet_volume": 0.0296
+  },
+  "20": {
+   "name": "Broncos",
+   "tweet_volume": 0.0291
+  },
+  "21": {
+   "name": "Alec-Baldwin",
+   "tweet_volume": 0.028
+  },
+  "22": {
+   "name": "Tomi",
+   "tweet_volume": 0.0255
+  },
+  "23": {
+   "name": "Ivanka",
+   "tweet_volume": 0.022
+  },
+  "24": {
+   "name": "Happy-Hump",
+   "tweet_volume": 0.0219
+  },
+  "25": {
+   "name": "LIV-Golf",
+   "tweet_volume": 0.0212
+  },
+  "26": {
+   "name": "The-PGA",
+   "tweet_volume": 0.0202
+  }
+ },
+ "Germany": {
+  "0": {
+   "name": "Apple",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "jhope",
+   "tweet_volume": 0.9221
+  },
+  "2": {
+   "name": "hobi",
+   "tweet_volume": 0.799
+  },
+  "3": {
+   "name": "England",
+   "tweet_volume": 0.3842
+  },
+  "4": {
+   "name": "MsMarvel",
+   "tweet_volume": 0.1513
+  },
+  "5": {
+   "name": "Kane",
+   "tweet_volume": 0.0958
+  },
+  "6": {
+   "name": "GERENG",
+   "tweet_volume": 0.0682
+  },
+  "7": {
+   "name": "USB-C",
+   "tweet_volume": 0.0483
+  }
+ },
+ "Italy": {
+  "0": {
+   "name": "Lollapalooza",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "Apple",
+   "tweet_volume": 0.4401
+  },
+  "2": {
+   "name": "hobi",
+   "tweet_volume": 0.3516
+  },
+  "3": {
+   "name": "run-bts",
+   "tweet_volume": 0.1014
+  },
+  "4": {
+   "name": "Chelsea",
+   "tweet_volume": 0.085
+  },
+  "5": {
+   "name": "MsMarvel",
+   "tweet_volume": 0.0666
+  },
+  "6": {
+   "name": "Reina",
+   "tweet_volume": 0.043
+  },
+  "7": {
+   "name": "Lukaku",
+   "tweet_volume": 0.0293
+  },
+  "8": {
+   "name": "benessere-animale",
+   "tweet_volume": 0.0216
+  },
+  "9": {
+   "name": "USB-C",
+   "tweet_volume": 0.0213
+  },
+  "10": {
+   "name": "Di-Maria",
+   "tweet_volume": 0.0189
+  },
+  "11": {
+   "name": "Corriere",
+   "tweet_volume": 0.0137
+  },
+  "12": {
+   "name": "Lille",
+   "tweet_volume": 0.0134
+  },
+  "13": {
+   "name": "Panorama",
+   "tweet_volume": 0.0117
+  },
+  "14": {
+   "name": "Dybala",
+   "tweet_volume": 0.0105
+  },
+  "15": {
+   "name": "Berardi",
+   "tweet_volume": 0.0098
+  },
+  "16": {
+   "name": "Romelu",
+   "tweet_volume": 0.0098
+  },
+  "17": {
+   "name": "Lautaro",
+   "tweet_volume": 0.0097
+  }
+ },
+ "Japan": {
+  "0": {
+   "name": "Liella",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "lovelive",
+   "tweet_volume": 0.9705
+  },
+  "2": {
+   "name": "\u30e2\u30ea\u30a2\u30fc\u30c6\u30a3",
+   "tweet_volume": 0.8779
+  },
+  "3": {
+   "name": "\u30ef\u30f3\u30d4\u30fc\u30b9",
+   "tweet_volume": 0.6213
+  },
+  "4": {
+   "name": "\u9234\u6728\u52dd3D",
+   "tweet_volume": 0.4653
+  },
+  "5": {
+   "name": "\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6",
+   "tweet_volume": 0.445
+  },
+  "6": {
+   "name": "Ado\u3055\u3093",
+   "tweet_volume": 0.4389
+  },
+  "7": {
+   "name": "\u30eb\u30fc\u30e9\u30fc",
+   "tweet_volume": 0.4213
+  },
+  "8": {
+   "name": "\u30ca\u30f3\u30d0MG5",
+   "tweet_volume": 0.3857
+  },
+  "9": {
+   "name": "\u30b7\u30e3\u30f3\u30af\u30b9\u306e\u5a18",
+   "tweet_volume": 0.3466
+  },
+  "10": {
+   "name": "\u6771\u4eac\u30c0\u30fc\u30d3\u30fc",
+   "tweet_volume": 0.3067
+  },
+  "11": {
+   "name": "A\u3047\u30e4\u30f3\u30bf\u30f3",
+   "tweet_volume": 0.2162
+  },
+  "12": {
+   "name": "SEEDs",
+   "tweet_volume": 0.1614
+  },
+  "13": {
+   "name": "\u540d\u585a\u3055\u3093",
+   "tweet_volume": 0.1164
+  },
+  "14": {
+   "name": "FAKE-TYPE",
+   "tweet_volume": 0.1117
+  },
+  "15": {
+   "name": "\u6b74\u4ee3\u30ef\u30f3\u30d4\u6620\u753b",
+   "tweet_volume": 0.0856
+  },
+  "16": {
+   "name": "\u30bd\u30fc\u30bb\u30fc\u30b8",
+   "tweet_volume": 0.0842
+  }
+ },
+ "Brazil": {
+  "0": {
+   "name": "Lollapalooza",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "hobi",
+   "tweet_volume": 0.3516
+  },
+  "2": {
+   "name": "hoseok",
+   "tweet_volume": 0.2842
+  },
+  "3": {
+   "name": "Chicago",
+   "tweet_volume": 0.1954
+  },
+  "4": {
+   "name": "Democracia",
+   "tweet_volume": 0.1408
+  },
+  "5": {
+   "name": "Moro",
+   "tweet_volume": 0.0975
+  },
+  "6": {
+   "name": "The-Rock",
+   "tweet_volume": 0.076
+  },
+  "7": {
+   "name": "Barcelona",
+   "tweet_volume": 0.0752
+  },
+  "8": {
+   "name": "MsMarvel",
+   "tweet_volume": 0.0666
+  },
+  "9": {
+   "name": "BlackAdam",
+   "tweet_volume": 0.0531
+  },
+  "10": {
+   "name": "JuntosComBolsonaro",
+   "tweet_volume": 0.0406
+  },
+  "11": {
+   "name": "Kanye-West",
+   "tweet_volume": 0.0326
+  },
+  "12": {
+   "name": "Shazam",
+   "tweet_volume": 0.0304
+  },
+  "13": {
+   "name": "Kamala",
+   "tweet_volume": 0.0273
+  },
+  "14": {
+   "name": "Vinland-Saga",
+   "tweet_volume": 0.0246
+  },
+  "15": {
+   "name": "Joaquin-Phoenix",
+   "tweet_volume": 0.0204
+  },
+  "16": {
+   "name": "Paran\u00e1",
+   "tweet_volume": 0.0158
+  },
+  "17": {
+   "name": "Eletrobras",
+   "tweet_volume": 0.0118
+  },
+  "18": {
+   "name": "TDAH",
+   "tweet_volume": 0.0117
+  },
+  "19": {
+   "name": "MAPPA",
+   "tweet_volume": 0.0109
+  },
+  "20": {
+   "name": "O-J\u00f4",
+   "tweet_volume": 0.0108
+  }
+ },
+ "Egypt": {
+  "0": {
+   "name": "jhope",
+   "tweet_volume": 1.0
+  },
+  "1": {
+   "name": "hobi",
+   "tweet_volume": 0.8669
+  },
+  "2": {
+   "name": "Prophet",
+   "tweet_volume": 0.4521
+  },
+  "3": {
+   "name": "Africa",
+   "tweet_volume": 0.3577
+  },
+  "4": {
+   "name": "Disney",
+   "tweet_volume": 0.3361
+  },
+  "5": {
+   "name": "Mane",
+   "tweet_volume": 0.176
+  },
+  "6": {
+   "name": "\u063a\u0636\u0628\u0647-\u0627\u0644\u0645\u0644\u064a\u0627\u0631-\u0644\u0631\u0633\u0648\u0644-\u0627\u0644\u0644\u0647",
+   "tweet_volume": 0.1618
+  },
+  "7": {
+   "name": "Nunez",
+   "tweet_volume": 0.1175
+  },
+  "8": {
+   "name": "Depends",
+   "tweet_volume": 0.1005
+  },
+  "9": {
+   "name": "\u0641\u064a\u0635\u0644-\u0632\u064a\u062f\u0627\u0646",
+   "tweet_volume": 0.0746
+  },
+  "10": {
+   "name": "\u0627\u0644\u0648\u0631\u0627\u0642-\u0639\u0634\u0648\u0647-\u0627\u0644\u0643\u0644\u0627\u0628",
+   "tweet_volume": 0.0298
+  }
+ }
+}
