@@ -16,8 +16,6 @@ MaxMsp based sound composition patch that fetches the top 5 twitter trends in a 
 `trendPlayer.maxpat` : subpatch for the player.<br />
 
 
-`README.md` : This file!<br />
-
 ***
 
 ## Usage
