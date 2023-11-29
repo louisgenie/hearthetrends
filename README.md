@@ -1,3 +1,7 @@
+# Deprecated
+This repository is no longer maintained. [Twitter API is no longer available freely.]
+
+
 # hearthetrends
 Sound art from Twitter trends
 
